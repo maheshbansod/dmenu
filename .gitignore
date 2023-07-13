@@ -1,3 +1,4 @@
 *.o
 dmenu
 dmenu.1
+stest
